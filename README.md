@@ -55,6 +55,6 @@ Feel free to reach out if you’d like to collaborate, connect, or just say hi!
    </a>
   &nbsp;&nbsp;
   <a href="https://t.me/tech_world_o1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram"/>
   </a>
 </p>
