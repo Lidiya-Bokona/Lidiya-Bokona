@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Writer;I'm+a+Web+Developer;I'm+an+Ex+Ethical+Hacker;I'm+a+Content+Creator;I'm+a+wrtier&font=Fira%20Code&center=true&width=420&height=45&color=A855F7&vCenter=true&size=24&pause=1500" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Writer;I'm+a+Web+Developer;I'm+a+Content+Creator;I'm+an+Ex+Ethical+Hacker&font=Fira%20Code&center=true&width=420&height=45&color=A855F7&vCenter=true&size=24&pause=1500" />
 </p>
 
 <p align="center">
-  💊&nbsp; A pharmacy student who fell in love with tech now building fullstack projects and exploring where I fit best in the field.
+  💊&nbsp; A pharmacy student who fell in love with tech, now building fullstack projects and exploring where I fit best in the field.
   <br/>
   I love turning unique ideas into real, working projects that solve everyday problems.
 </p>
@@ -23,11 +23,18 @@
 <br/>
 
 <h3 align="center">📈 GitHub Activity</h3>
+<p align="center"><sub>A snapshot of my coding activity, stats, and streaks</sub></p>
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Lidiya-Bokona&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9c9c9&bg_color=0D1117" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lidiya-Bokona&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=c9c9c9&bg_color=0D1117" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=Lidiya-Bokona&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9c9c9&bg_color=0D1117" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lidiya-Bokona&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=c9c9c9&bg_color=0D1117" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lidiya-Bokona&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&card_width=685" />
