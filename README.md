@@ -23,8 +23,6 @@
 <br/>
 
 <h3 align="center">📈 GitHub Activity</h3>
-<p align="center"><sub>A snapshot of my coding activity, stats, and streaks</sub></p>
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
@@ -46,15 +44,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lidiya-bokona-68621831b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/lidsverse" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-A855F7?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-7C3AED?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:lidiyabokona1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://ye-buna.com/lidiya813" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20Me-A855F7?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+    <img src="https://img.shields.io/badge/Support%20Me-7C3AED?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
