@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:C084FC&height=180&section=header&text=Lidiya%20Bokona&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:C084FC&height=180&section=header&text=Lidiya%20Bokona&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 </p>
 
 <p align="center">
-  <span style="font-size:24px; font-weight:700; color:#A855F7; font-family:'Fira Code',monospace; vertical-align:middle;">I'm&nbsp;</span><img src="https://readme-typing-svg.demolab.com/?lines=a+Writer;a+Web+Developer;a+Content+Creator;an+Ex+Ethical+Hacker&font=Fira%20Code&center=true&width=420&height=40&color=A855F7&vCenter=true&size=22&pause=1500" style="vertical-align:middle;" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Writer;I'm+a+Web+Developer;I'm+an+Ex+Ethical+Hacker;I'm+a+Content+Creator;I'm+a+wrtier&font=Fira%20Code&center=true&width=420&height=45&color=A855F7&vCenter=true&size=24&pause=1500" />
 </p>
 
 <p align="center">
-  💊&nbsp; A pharmacy student who fell in love with tech now building fullstack projects and exploring where I fit best in the field.   </br>
-   I love turning unique ideas into real, working projects that solve everyday problems.
+  💊&nbsp; A pharmacy student who fell in love with tech now building fullstack projects and exploring where I fit best in the field.
+  <br/>
+  I love turning unique ideas into real, working projects that solve everyday problems.
 </p>
 
 <br/>
@@ -21,7 +22,7 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📈 GitHub Activity</h3>
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Lidiya-Bokona&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9c9c9&bg_color=0D1117" />
