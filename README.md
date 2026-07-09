@@ -22,7 +22,6 @@
 
 <br/>
 
-<h3 align="center">📈 GitHub Activity</h3>
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
